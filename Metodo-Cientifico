@@ -1,0 +1,8 @@
+documentos/: Directorio que contiene documentos sobre el método científico, incluyendo introducciones, pasos clave y ejemplos de estudios.
+presentaciones/: Directorio que contiene presentaciones sobre el método científico, incluyendo tutoriales, diagramas y gráficos.
+recursos/: Directorio que contiene recursos adicionales para el aprendizaje y la aplicación del método científico, como vídeos, podcasts y enlaces a sitios web relevantes.
+código/: Directorio que contiene ejemplos de código y programas utilizados para la recopilación, análisis y visualización de datos.documentos/introduccion_al_metodo_cientifico.pdf: Documento que presenta una introducción al método científico, incluyendo su historia, principios y aplicaciones.
+documentos/pasos_clave_del_metodo_cientifico.pdf: Documento que explica los pasos clave del método científico, como la formación de hipótesis, la recolección de datos y la prueba estadística.
+presentaciones/tutoriales_metodo_cientifico.pptx: Presentación que contiene tutoriales y ejemplos de cómo aplicar el método científico en diferentes situaciones.
+recursos/ejemplos_de_estudios.pdf: Archivo que contiene ejemplos de estudios que demuestran cómo se aplica el método científico en la investigación.
+código/ejemplo_de_analisis_R.Rmd: Archivo de código R que contiene un ejemplo de cómo analizar y visualizar datos utilizando el método científico
